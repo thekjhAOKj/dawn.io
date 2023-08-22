@@ -156,3 +156,6 @@ body{
 .gk{
     cursor: pointer;
 }
+.gk img:hover{
+    opacity: 0.7;
+}
